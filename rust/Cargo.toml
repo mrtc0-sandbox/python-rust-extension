@@ -1,0 +1,10 @@
+[package]
+name = "tutorial"
+version = "0.1.0"
+authors = ["mrtc0 <mrtc0.py@gmail.com>"]
+
+[dependencies]
+
+[lib]
+name = "tutorial"
+crate-type = ["cdylib"]

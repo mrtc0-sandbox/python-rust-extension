@@ -1,0 +1,4 @@
+env/
+*.pyc
+.eggs/
+__pycache__/
